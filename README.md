@@ -1,10 +1,14 @@
-1. edit wiki by yourself
-   add page, change the process status
-2. submit the relevant documents 
+*This is the big picture for our team.
+I'd like everyone to post your opinion to make our team a better future.*
+
+# The usage of this repo #
+
+1. *wiki*
+    1.1  our discussions
+    1.2  our plans
+    1.3  our commitment
+    1.4  keep track of our process
+    1.5  useful information collection
+2. *docs*
    books, docs, slides
 
-ome of these words *are emphasized*.
-Some of these words _are emphasized also_.
-
-Use two asterisks for **strong emphasis**.
-Or, if you prefer, __use two underscores instead__
